@@ -1,2 +1,1 @@
-# ShadowForge
-This repository stores various tools for DFIR, etc.
+This repository stores the source code for the utility for obtaining and analyzing $MFT.
